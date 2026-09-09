@@ -38,4 +38,6 @@ Map View – Sales and profit shown by state
 Forecast Page – A 15-day sales forecast, along with top-performing states
 
 6. Screenshots
+   https://github.com/AninditaDas-ui/sales-dashboard/blob/main/Sales%20Analysis.png
+   
    
